@@ -1,1 +1,1 @@
-# simulation_theatre_v1
+Theatre simulator
